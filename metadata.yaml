@@ -1,0 +1,31 @@
+_repo: SusanA-Story-for-Children_21230
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walton, Amy
+    birthdate: 1848
+    deathdate: 1899
+    gutenberg_agent_id: '32944'
+    url: http://www.gutenberg.org/2009/agents/32944
+description: ''
+gutenberg_issued: '2007-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21230'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+title: 'Susan
+
+  A Story for Children'
+url: http://www.gutenberg.org/ebooks/21230
